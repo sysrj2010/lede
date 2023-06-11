@@ -131,7 +131,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-webadmin=y
           # CONFIG_PACKAGE_luci-app-wireguard=y
           # CONFIG_PACKAGE_luci-app-wrtbwmon=y
-          # EOF
+          EOF
           # LuCI主题:
           # cat >> .config <<EOF
           # CONFIG_PACKAGE_luci-theme-argon=y
